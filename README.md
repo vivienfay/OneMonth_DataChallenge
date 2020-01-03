@@ -2,4 +2,6 @@
 This repo is  for take-home data challenge exercise. My goal is to finish these 20 exercises within one month. Dataset comes from Kaggle. 
 
 Reference: 
+
 https://github.com/JifuZhao/DS-Take-Home
+https://github.com/stasi009/TakeHomeDataChallenges

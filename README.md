@@ -14,6 +14,8 @@ This repo is  for take-home data challenge exercise. My goal is to finish these 
 
 [Pricing Test](https://github.com/vivienfay/OneMonth_DataChallenge/blob/master/DAY6%20Pricing%20Test.ipynb)
 
+[Marketing Email Campaign](https://github.com/vivienfay/OneMonth_DataChallenge/blob/master/DAY7%20Marketing%20Email%20Campaign.ipynb)
+
 Reference: 
 
 https://github.com/JifuZhao/DS-Take-Home
